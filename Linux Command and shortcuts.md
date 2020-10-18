@@ -18,7 +18,7 @@ uname [-option][--help][--version]
 
 使用方法如下：
 
-![uname-help](/Users/solerho/Documents/command-shortcuts/Linux_images/uname-help.png)
+![](https://github.com/SolerHo/command-shortcuts/blob/main/Linux_images/uname-help.png)
 
 具体实例：
 
